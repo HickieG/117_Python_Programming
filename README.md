@@ -1,0 +1,3 @@
+So far this week we have created a code that makes decisions using if/elif/else functions, as well as a loop function. I am submitting this README on my second commit along with my loop project. 
+
+Reflection for weather program: My weather message program checks the temperature based on user input, and has multiple different messages for outcomes. If it's below freezing, there is a special message noting that, if the weather is temperate (between 55-75 degrees) it recommends you going for a walk, etc.
