@@ -1,0 +1,1 @@
+This week is about functions! Also, apparently this repo will be used indefinitely, so this message is likely subject to change.
