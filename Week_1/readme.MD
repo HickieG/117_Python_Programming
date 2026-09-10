@@ -1,0 +1,2 @@
+This is my first week's coding projects; I have made 3 different simple programs along with a type awareness program. 
+They are all fairly simple. I feel like most could be expanded upon, but I made some decent comments and I feel as though anyone could understand their functionality at a glance.
