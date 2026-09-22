@@ -1,0 +1,32 @@
+{
+    "students": [
+        {
+            "name": "Jack Smith",
+            "major": "Mechanical Engineering",
+            "gpa": 3.8
+        },
+        {
+            "name": "Garrett Hickie",
+            "major": "Software Development",
+            "gpa": 3.4
+        }
+    ],
+    "courses": [
+        {
+            "name": "Calculus 2",
+            "passing": false,
+            "credits": 4
+        },
+        {
+            "name": "Python Programming",
+            "passing": true,
+            "credits": 3
+        },
+        {
+            "name": "Intro to Statistics",
+            "passing": true,
+            "credits": 3
+        }
+
+    ]
+}
