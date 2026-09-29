@@ -14,7 +14,7 @@ The purpose of this project is to track how much sleep I'm getting throughout th
 
 ## User
 
-The intended user is myself of course, but this program should be usable by anyone who sleeps!
+The intended user is myself of course, but this program should be usable by anyone who sleeps and wants to track it!
 
 ---
 
@@ -31,6 +31,7 @@ Inputs:
 
 - Time Slept (Time of Waking - Time of Slumber)
 - Classes on Given Day (Predetermined; listed info)
+- Message about sleep quality based on Time Slept
 
 ---
 
