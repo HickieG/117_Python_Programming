@@ -121,3 +121,7 @@ def main():
 		project_data["course_list"],
 		messages,
 	)
+
+
+if __name__ == "__main__":
+	main()
