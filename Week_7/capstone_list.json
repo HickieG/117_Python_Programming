@@ -1,0 +1,33 @@
+{
+    "course_list": [
+        {
+            "course_name": "Web Development Foundations",
+            "course_time": "9:30 AM - 10:23 AM",
+            "days": "Monday, Tuesday, Thursday"
+        },
+        {
+            "course_name": "Introduction to Python",
+            "course_time": "10:30 AM - 12:23 PM",
+            "days": "Monday, Tuesday, Thursday"
+        },
+        {
+            "course_name": "Introduction to Statistics",
+            "course_time": "2:30 PM - 3:23 PM",
+            "days": "Monday, Wednesday"
+        }
+    ],
+    "messages": {
+        "welcome": "Sleep Tracker",
+        "bedtime_prompt": "What time did you go to bed? (for example, 10:30 PM): ",
+        "wake_time_prompt": "What time did you wake up? (for example, 7:00 AM): ",
+        "day_prompt": "What day is it? ",
+        "invalid_time": "Please use a time like 10:30 PM or 7:00 AM.",
+        "invalid_day": "Please enter a day from Monday to Sunday.",
+        "sleep_result": "\nYou slept for {hours} hours and {minutes} minutes.",
+        "short_sleep": "\nLess than 6 hours of sleep? Go to bed earlier!",
+        "some_sleep": "\nYou got between 6 and 8 hours of sleep. Not bad, but try to get a bit more rest if you can.",
+        "rested_sleep": "\nYou got 8 hours or more of sleep. Seize the day!",
+        "classes_heading": "\nClasses on {day}:",
+        "no_classes": "\nNo classes today. Woohoo!"
+    }
+}
